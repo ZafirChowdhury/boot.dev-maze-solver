@@ -1,1 +1,1 @@
-# boot.dev-maze-solver
+# Maze Solver
